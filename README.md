@@ -11,5 +11,3 @@ It helps to **verify trades, analyze differences, and audit bot performance** in
 - Displays results in a live interactive console table (using [rich](https://github.com/Textualize/rich))
 - Exports detailed CSV reports with full data for further analysis
 - Summary statistics with matched/unmatched trades
-
-## 🖼 Example Console Output
